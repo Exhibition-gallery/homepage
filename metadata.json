@@ -1,0 +1,37 @@
+{
+    "name": "Exhibition.gallery",
+    "symbol": "ARTO",
+    "address": "0x57BC752ec42238bB60a6e65B0De82eF44013225d",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Exhibition.gallery is an ERC20 token that aims to foster those artistic creations for all artists, while connecting artists with art lovers, collectors, and investors. Moreover, we will help turn your artworks and/or illiquid assets into a sustainable revenue source by leveraging Ethereum’s NFT capabilities.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/exhibitiontoken"
+        },
+        {
+            "type": "website",
+            "value": "https://exhibition.gallery/"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/exhibitiongallery"
+        },
+		{
+            "type": "medium",
+            "value": "https://exhibition-gallery.medium.com/"
+        },
+		{
+            "type": "youtube",
+            "value": "https://www.youtube.com/channel/UCh2OZKyiAOqwREbjAcUpxzg?sub_confirmation=1"
+        }
+    ],
+    "tags": [
+        "artworks",
+		"defi",
+        "yield-farming",
+        "NFTs",
+		"e-commerce",
+    ]
+}
